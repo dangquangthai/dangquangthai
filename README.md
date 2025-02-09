@@ -6,7 +6,7 @@ BACKEND ENGINEERING at RAKSUL
 * 8 years of experience in C\# NET, Netcore  
 * 8 years of experience in Elasticsearch  
 * 8 years of experience in Microservice
-* 8 years of experience in Twilio video streaming
+* 8 years of experience in Twilio services
 * 8 years of experience in CI, CircleCI and Github actions (AWS and Google Cloud)  
 * 4 years of experience in NodeJS, Fastify  
 * 4 years of experience in Typescript, Javascript, React, VueJS, Angular, Jest  
@@ -16,13 +16,13 @@ BACKEND ENGINEERING at RAKSUL
 
 **Daily working with**
 
-* ClickUp, GitHub, Notion  
+* JIRA, GitHub, ClickUp and Notion
 * Test-driven development \- TDD  
 * Data and web caching  
-* WebSocket  
-* Google-cloud, firebase  
+* WebSocket, Firebase  
+* Google-cloud, AWS
 * Unit test, code review  
-* E2E tests  
+* E2E automation tests  
 * Twilio Video streaming, Twilio Audio  
 * Micro front-end, Microservice
   
